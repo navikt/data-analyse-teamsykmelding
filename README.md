@@ -1,4 +1,10 @@
 # data-analyse-teamsykmelding
+> **Note**
+>
+> Repoet må ses på i en NAV kontekst, for å få utbytte av den.
+> Dersom det åpnes opp, må det bruke masse energi på å sikre at alle som leser den har den konteksten.
+> Vi har derfor valgt å holde dette repoet lukket.
+
 Datapakke/datapakker for team sykmelding
 
 Her er linker til dokumentasjon og andre nyttige sider:

@@ -21,6 +21,15 @@ Kjøres via Notebook
 
 https://docs.knada.io/dataprodukter/produsere/skedulering/notebook-gcp-cronjob/
 
+### Hemmligheter
+Tokenet som vi benytter i datafortelling ligger i Secret manager google:
+https://console.cloud.google.com/security/secret-manager/secret/teamsykmelding_datastory_token_prod/versions?project=teamsykmelding-prod-2acd
+
+#### oppdatere mijø variablen
+```
+os.environ.update(DATASTORYTOKEN="$sometoken")
+```
+
 ### Kontakt/spørsmål
 
 Prosjektet er vedlikeholdt av [teamsykmelding](CODEOWNERS)
